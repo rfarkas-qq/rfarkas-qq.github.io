@@ -4,25 +4,6 @@ title: "The Scary New Research On Sugar & How They Made You Addicted To It! Jess
 ---
 # [The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé | E243](https://www.youtube.com/watch?v=DnEJrgc1BCk)
 
-Jessie Inchauspé is not widely known for significant controversies. While there can always be discussions around scientific interpretations and dietary advice, her work generally focuses on health and wellness education based on her research and experiments, without major public scandals or widespread ethical disputes.
-
-*   Intro
-*   What is it that you do and why does it matter?
-*   Why glucose?
-*   The symptoms of bad glucose spikes
-*   What is glucose?
-*   What happens to our bodies when we have a glucose spike?
-*   Glucose as it relates to weight gain
-*   10 Hacks to prevent glucose spikes
-*   The right meal to have for breakfast
-*   Why you should be drinking vinegar
-*   You have to be doing this after you eat
-*   Your perfect diet
-*   Our conversation cards
-*   The last guest’s question
-
----
-
 Jessie Inchauspé nie je široko známa pre významné kontroverzie. Hoci vždy môžu existovať diskusie o vedeckých interpretáciách a diétnych radách, jej práca sa vo všeobecnosti zameriava na vzdelávanie v oblasti zdravia a pohody na základe jej výskumu a experimentov, bez väčších verejných škandálov alebo rozšírených etických sporov.
 
 *   Úvod
