@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-## Articles Index
+## Obsah
 
-## translated summaries of DOAC channel 
+## preložené sumarizácie videí z kanála DOAC 
 
 YouTube: [DOAC](https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw)
 
