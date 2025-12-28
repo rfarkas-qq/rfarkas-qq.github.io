@@ -1,4 +1,8 @@
-[The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé | E243](https://www.youtube.com/watch?v=DnEJrgc1BCk)
+---
+layout: default
+title: The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé
+---
+# [The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé | E243](https://www.youtube.com/watch?v=DnEJrgc1BCk)
 
 Jessie Inchauspé is not widely known for significant controversies. While there can always be discussions around scientific interpretations and dietary advice, her work generally focuses on health and wellness education based on her research and experiments, without major public scandals or widespread ethical disputes.
 
