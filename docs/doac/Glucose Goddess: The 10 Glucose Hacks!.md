@@ -1,4 +1,8 @@
-[Glucose Goddess: The 10 Glucose Hacks!](https://www.youtube.com/watch?v=3esF-pNAM9c)
+---
+layout: default
+title: Glucose Goddess: The 10 Glucose Hacks!
+---
+# [Glucose Goddess: The 10 Glucose Hacks!](https://www.youtube.com/watch?v=3esF-pNAM9c)
 
 Hosť: Jessie Inchauspé
 
