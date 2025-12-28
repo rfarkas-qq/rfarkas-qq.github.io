@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé
+title: "The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé"
 ---
 # [The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé | E243](https://www.youtube.com/watch?v=DnEJrgc1BCk)
 
