@@ -1,4 +1,5 @@
-[Glucose Goddess: The 10 Glucose Hacks!](https://www.youtube.com/watch?v=3esF-pNAM9c)**Jessie Inchauspé**
+[Glucose Goddess: The 10 Glucose Hacks!](https://www.youtube.com/watch?v=3esF-pNAM9c)
+**Jessie Inchauspé**
 
 Jessie Inchauspé, známa ako „Glucose Goddess“, je biochemik a autorka bestsellerov. Hoci si získala rozsiahlu popularitu zvyšovaním povedomia o manažmente hladiny cukru v krvi, existujú diskusie a kritiky týkajúce sa jej práce.
 Niektorí zdravotnícki odborníci a dietológovia vyjadrili obavy z potenciálneho zjednodušenia komplexnej metabolickej vedy v jej „hackoch“, pričom naznačujú, že nemusia byť univerzálne použiteľné alebo dostatočné pre všetkých jednotlivcov, najmä pre tých s existujúcimi zdravotnými problémami. Vedú sa aj diskusie o propagácii jej doplnku „Anti-Spike Formula“, pričom niektorí kritici spochybňujú potenciálny konflikt záujmov pri propagácii komerčného produktu spolu s všeobecnými zdravotnými radami. Tieto diskusie sa primárne točia okolo nuáns vedeckej komunikácie a aplikácie zdravotných rád, skôr než o závažné faktické nepresnosti alebo škandály.
