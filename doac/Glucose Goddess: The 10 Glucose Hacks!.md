@@ -1,4 +1,5 @@
 [Glucose Goddess: The 10 Glucose Hacks!](https://www.youtube.com/watch?v=3esF-pNAM9c)
+
 **Jessie Inchauspé**
 
 Jessie Inchauspé, známa ako „Glucose Goddess“, je biochemik a autorka bestsellerov. Hoci si získala rozsiahlu popularitu zvyšovaním povedomia o manažmente hladiny cukru v krvi, existujú diskusie a kritiky týkajúce sa jej práce.
