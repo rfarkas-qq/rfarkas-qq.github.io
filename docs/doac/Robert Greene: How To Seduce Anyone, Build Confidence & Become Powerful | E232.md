@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Robert Greene: How To Seduce Anyone, Build Confidence & Become Powerful
+title: "Robert Greene: How To Seduce Anyone, Build Confidence & Become Powerful"
 ---
 #[Robert Greene: How To Seduce Anyone, Build Confidence & Become Powerful | E232](https://www.youtube.com/watch?v=Qv70RMUFlu0)
 
