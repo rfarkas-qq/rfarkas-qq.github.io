@@ -8,6 +8,7 @@ title: "Robert Greene: How To Seduce Anyone, Build Confidence & Become Powerful"
 [Robert Greene How To Seduce Anyone, Build Confidence & Become Powerful | E232](https://www.youtube.com/watch?v=Qv70RMUFlu0)
 
 Meno hosťa: Robert Greene
+
 Kontroverzný: Áno
 
 **Vysvetlenie:** Robert Greene je kontroverzný predovšetkým vďaka svojej bestsellerovej knihe „48 zákonov moci“ a ďalším, ako je „Umenie zvádzania“. Kritici tvrdia, že jeho práca propaguje machiavelistické taktiky, manipuláciu a amorálny prístup k životu a dynamike moci. Zatiaľ čo jeho čitatelia často považujú jeho poznatky za povzbudzujúce a praktické, iní vnímajú jeho učenie ako cynické, neetické a potenciálne škodlivé, pretože podnecuje samoúčelné správanie na úkor iných.
