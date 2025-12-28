@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Glucose Goddess: The 10 Glucose Hacks!
+title: "Glucose Goddess The 10 Glucose Hacks!"
 ---
 # [Glucose Goddess: The 10 Glucose Hacks!](https://www.youtube.com/watch?v=3esF-pNAM9c)
 
