@@ -2,7 +2,10 @@
 layout: default
 title: "The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé"
 ---
-# [The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé | E243](https://www.youtube.com/watch?v=DnEJrgc1BCk)
+
+# The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé | E243
+
+[YouTube](https://www.youtube.com/watch?v=DnEJrgc1BCk)
 
 Jessie Inchauspé nie je široko známa pre významné kontroverzie. Hoci vždy môžu existovať diskusie o vedeckých interpretáciách a diétnych radách, jej práca sa vo všeobecnosti zameriava na vzdelávanie v oblasti zdravia a pohody na základe jej výskumu a experimentov, bez väčších verejných škandálov alebo rozšírených etických sporov.
 
