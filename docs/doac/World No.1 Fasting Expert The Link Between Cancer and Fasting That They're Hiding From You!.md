@@ -1,4 +1,4 @@
-[World No.1 Fasting Expert: The Link Between Cancer & Fasting That They're Hiding From You!](https://www.youtube.com/watch?v=jDG1m_b5Ih0)
+[World No.1 Fasting Expert The Link Between Cancer & Fasting That They're Hiding From You!](https://www.youtube.com/watch?v=jDG1m_b5Ih0)
 
 # Dr. Alan Goldhamer
 
