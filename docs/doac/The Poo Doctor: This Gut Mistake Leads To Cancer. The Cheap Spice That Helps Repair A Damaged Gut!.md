@@ -1,4 +1,4 @@
-[The Poo Doctor: This Gut Mistake Leads To Cancer. The Cheap Spice That Helps Repair A Damaged Gut!](https://www.youtube.com/watch?v=5Tr7AhkOEj4)
+[The Poo Doctor This Gut Mistake Leads To Cancer.](https://www.youtube.com/watch?v=5Tr7AhkOEj4)
 
 Hosť: Dr. Will Bulsiewicz
 
