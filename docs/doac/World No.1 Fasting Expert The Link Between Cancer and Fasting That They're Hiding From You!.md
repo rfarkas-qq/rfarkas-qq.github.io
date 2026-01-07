@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "World No.1 Fasting Expert The Link Between Cancer & Fasting"
+title: "Svetová jednotka v oblasti pôstu - Súvislosť medzi rakovinou a pôstom"
 ---
 
 # World No.1 Fasting Expert The Link Between Cancer & Fasting
