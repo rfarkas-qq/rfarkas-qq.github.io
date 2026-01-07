@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé"
+title: "Desivý výskum o cukre a ako vás naň urobili závislými"
 ---
 
 # The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé | E243
