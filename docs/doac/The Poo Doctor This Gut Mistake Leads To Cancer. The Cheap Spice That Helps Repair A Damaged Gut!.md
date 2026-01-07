@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Poo Doctor This Gut Mistake Leads To Cancer"
+title: "Doktor hovienok - Táto chyba v črevách vedie k rakovine"
 ---
 
 # The Poo Doctor This Gut Mistake Leads To Cancer
