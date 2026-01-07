@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Fasting Expert "The Truth About Ozempic"
+title: "Odborník na pôst - Pravda o Ozempicu"
 ---
 
 # The Fasting Expert "The Truth About Ozempic"
