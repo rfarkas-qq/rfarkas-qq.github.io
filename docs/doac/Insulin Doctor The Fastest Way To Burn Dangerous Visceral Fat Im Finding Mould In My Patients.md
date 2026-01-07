@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Insulin Doctor The Fastest Way To Burn Dangerous Visceral Fat"
+title: "Inzulínový lekár - Najrýchlejší spôsob, ako spáliť nebezpečný viscerálny tuk"
 ---
 
 # Insulin Doctor The Fastest Way To Burn Dangerous Visceral Fat
