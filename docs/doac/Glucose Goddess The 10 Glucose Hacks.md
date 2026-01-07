@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Glucose Goddess The 10 Glucose Hacks!"
+title: "Bohyňa glukózy - 10 trikov s glukózou"
 ---
 
 # Glucose Goddess The 10 Glucose Hacks!
