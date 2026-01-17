@@ -9,36 +9,5 @@ title: Home
 
 YouTube: [DOAC](https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw)
 
-{% assign sections_str = "" %}
+{% include docs_nav.html %}
 
-{% for page in site.pages %}
-  {% assign parts = page.path | split: '/' %}
-  {% if parts.size > 1 %}
-    {% assign topdir = parts[0] %}
-    {% if topdir != "_site" %}
-      {% unless sections_str contains topdir %}
-        {% assign sections_str = sections_str | append: topdir | append: "|" %}
-      {% endunless %}
-    {% endif %}
-  {% endif %}
-{% endfor %}
-
-{% assign sections = sections_str | split: "|" %}
-
-{% for section in sections %}
-  {% if section != "" %}
-    <h2>{{ section | replace: '-', ' ' | capitalize }}</h2>
-    <ul>
-      {% for page in site.pages %}
-        {% assign parts = page.path | split: '/' %}
-        {% if parts[0] == section %}
-          <li>
-            <a href="{{ page.url | relative_url }}">
-              {{ page.title | default: page.name }}
-            </a>
-          </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-  {% endif %}
-{% endfor %}
