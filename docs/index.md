@@ -43,7 +43,7 @@ YouTube: [DOAC](https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw)
   {% endfor %}
 </ul>
 
-## Other 
+## Iné 
 
 <ul>
   {% for page in site.pages %}
