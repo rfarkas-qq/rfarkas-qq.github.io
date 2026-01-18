@@ -39,7 +39,7 @@ YouTube: [DOAC](https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw)
       <li>
         <a href="{{ page.url | relative_url }}">{{ page.title | default: page.name }}</a>
       </li>
-    {% endif %}
+    {% endunless %}
   {% endfor %}
 </ul>
 
