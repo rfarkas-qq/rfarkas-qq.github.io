@@ -4,7 +4,7 @@
 
 1. Na břiše 
 
-![1](./img/si1.gif)
+![1](/img/si1.gif)
 
 Leh na břiše, ruce složené pod čelem. Začneme přitaho­vat levou nohu do plazení, ale přitom si hlídáme levý bok. V okamžiku, kdy máme pocit, že se levý bok začíná odlepo­vat od podložky, zastavíme pohyb levou nohou. V této pozici je výdrž s tlakem boků a levého kolena do podložky. Pak povolíme a provedeme na druhou stranu.
 
