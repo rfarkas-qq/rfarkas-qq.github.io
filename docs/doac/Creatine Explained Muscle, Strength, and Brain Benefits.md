@@ -1,4 +1,4 @@
-[Creatine Explained: Muscle, Strength, and Brain Benefits](https://www.youtube.com/watch?v=im3XmEB2nPo)
+[Creatine Explained Muscle, Strength, and Brain Benefits](https://www.youtube.com/watch?v=im3XmEB2nPo)
 
 **Kľúčový obsah:**
 
