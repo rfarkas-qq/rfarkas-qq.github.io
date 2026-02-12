@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Cvičenie na chrbticu"
+---
+
 # Cvičenie na chrbticu
 
 ## SI
