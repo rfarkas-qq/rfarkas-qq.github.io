@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sadhana - Yogasana"
+---
+
+
 # Sadhana Sequence
 
 * Guru Puja
