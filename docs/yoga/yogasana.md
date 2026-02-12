@@ -16,35 +16,35 @@
 ## Yogasanas
 
 Príprava
-* Nadi Vibhajan: 3 cykly
+* Nadi Vibhajan (Mačka): 3 cykly
 
 Pozície v stoji (Standing)
 * Padahastasana (Ruky k nohám): 3 cykly
-* Konasana (Uhol):
+* Konasana (Uhol, puma po stojacky):
   ** Príprava: 3 cykly
    ** Asána: 3 cykly
  * Trikonasana (Trojuholník): 3 cykly
  * Vrikshasana (Strom): 1 cyklus
- * Shavasana (Mŕtvola): podľa potreby
+ * Shavasana (Mŕtvola, oddych): podľa potreby
 
 Pozície v ľahu (Lying Down)
- * Ekapada Utthanpadasana (Snaha o vzostup – jedna noha): 3 cykly
- * Dwipada Utthanpadasana (Snaha o vzostup – obe nohy): 3 cykly
- * Shalabhasana (Kobylka):
-   ** Príprava: 1 cyklus
-   ** Asána: 3 cykly
- * Makarasana (Krokodíl): podľa potreby pozícia 8-11
+ * Ekapada Utthanpadasana (Snaha o vzostup – jedna noha 90,45)
+ * Dwipada Utthanpadasana (Snaha o vzostup – obe nohy 90,45): 3 cykly
+ * Shalabhasana (Kobylka, dvíhanie noh):
+   ** Príprava: ľavá, pravá 1 cyklus 
+   ** Asána: spolu obe 3 cykly
+ * Makarasana (Krokodíl, oddych): podľa potreby pozícia 8-11
  * Naukasana (Čln):
-   ** Príprava: 1 cyklus
-   ** Asána: 1 cyklus (3 cykly, ak to čas dovoľuje)
- * Bhujangasana (Had): 3 cykly
+   ** Príprava: ruky hore otvor oci, nohy hore 1 cyklus
+   ** Asána: spolu ruky nohy 1 cyklus (3 cykly, ak to čas dovoľuje)
+ * Bhujangasana (Had, dlane pod ramena): 3 cykly
  * Dhanurasana (Luk): 1 cyklus (3 cykly, ak to čas dovoľuje)
 Ak je potrebné,  Shavasana (Mŕtvola)
 
 Pozície v sede (Sitting)
- * Paschimottanasana (Natiahnutie od hlavy k pätám): 3 cykly
- * Janur Shirasasana (Hlava ku kolenu): 1 cyklus (3 cykly, ak to čas dovoľuje)
- * Matsyendrasana (Slimák): 1 cyklus
+ * Paschimottanasana (Hlava k pätám): 3 cykly
+ * Janur Shirasasana (Hlava ku kolenu, jednu nohu skrcit): 1 cyklus (3 cykly, ak to čas dovoľuje)
+ * Matsyendrasana (Slimák, zauzlit): 1 cyklus
 
 Relaxácia 
  * Sushanti Meditation (61-bodová relaxácia): 3 cykly
@@ -54,7 +54,7 @@ Príprava
  * Patangasana (Motýľ – príprava): 2 minúty
  * Shishupalasana (Bábätko – príprava): 2 minúty na každú nohu
 
- * Yoga Mudra (Jogická pečať): 3 cykly
+ * Yoga Mudra (Jogická pečať, vydychovanie na 3 etapy, zadržať dych): 3 cykly
  * Lolasana (Hojdačka): 3 cykly
  * Uddyana Bandha (Brušný uzáver): 3 cykly
 
