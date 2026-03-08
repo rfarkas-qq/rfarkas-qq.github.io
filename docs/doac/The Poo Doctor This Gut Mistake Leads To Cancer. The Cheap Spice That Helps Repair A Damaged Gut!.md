@@ -3,7 +3,7 @@ layout: default
 title: "Doktor hovienok - Táto chyba v črevách vedie k rakovine"
 ---
 
-# The Poo Doctor This Gut Mistake Leads To Cancer
+# Doktor hovienok - Táto chyba v črevách vedie k rakovine
 
 [The Poo Doctor This Gut Mistake Leads To Cancer.](https://www.youtube.com/watch?v=5Tr7AhkOEj4)
 
