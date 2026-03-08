@@ -3,7 +3,7 @@ layout: default
 title: "Desivý výskum o cukre a ako vás naň urobili závislými"
 ---
 
-# The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé | E243
+# Desivý výskum o cukre a ako vás naň urobili závislými - Jessie Inchauspé
 
 [YouTube](https://www.youtube.com/watch?v=DnEJrgc1BCk)
 
