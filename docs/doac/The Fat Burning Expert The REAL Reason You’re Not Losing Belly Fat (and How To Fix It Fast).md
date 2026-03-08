@@ -53,7 +53,9 @@ title: Odborník na spaľovanie tukov Pravý dôvod, prečo neschudnete z brucha
 *   Ako často by sme mali chodiť do posilňovne každý týždeň?
 *   Ako dlho trvá strata svalov?
 *   Ako príroda ovplyvňuje váš život?
-*   Kde vás ľudia nájdu?**Kľúčové poznatky o chudnutí a budovaní svalov:**
+*   Kde vás ľudia nájdu?
+
+**Kľúčové poznatky o chudnutí a budovaní svalov:**
 
 *   **Bielkoviny sú prvoradé:** Pre chudnutie aj naberanie svalov uprednostnite denný príjem bielkovín (1,6-2,2 g/kg cieľovej telesnej hmotnosti). Časovanie je pre bežnú populáciu menej dôležité ako celkové množstvo. Vysoký príjem bielkovín podporuje sýtosť a redukciu tuku. Väčšina ľudí konzumuje málo bielkovín.
 *   **Neexistuje jedna „najlepšia“ diéta:** Najefektívnejšia dlhodobá diéta je udržateľná, bohatá na zdravé potraviny, spĺňa potreby bielkovín a kalórií a zodpovedá individuálnym preferenciám. Módne diéty, ako sú prísne keto alebo karnivorné diéty, hoci spočiatku účinné pri chudnutí znížením kalórií a zlepšením príjmu bielkovín, často zlyhávajú kvôli nedostatočnej dlhodobej udržateľnosti.
