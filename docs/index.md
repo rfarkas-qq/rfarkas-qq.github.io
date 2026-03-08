@@ -5,7 +5,7 @@ title: Home
 
 # Obsah
 
-## preložené sumarizácie videí z kanála DOAC 
+## DOAC - diary of a CEO
 
 YouTube: [DOAC](https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw)
 
@@ -24,6 +24,42 @@ YouTube: [DOAC](https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw)
 <ul>
   {% for page in site.pages %}
     {% if page.path contains "sport/" %}
+      <li>
+        <a href="{{ page.url | relative_url }}">{{ page.title | default: page.name }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+## Spiritual
+
+<ul>
+  {% for page in site.pages %}
+    {% if page.path contains "spiritual/" %}
+      <li>
+        <a href="{{ page.url | relative_url }}">{{ page.title | default: page.name }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+## Yoga
+
+<ul>
+  {% for page in site.pages %}
+    {% if page.path contains "yoga/" %}
+      <li>
+        <a href="{{ page.url | relative_url }}">{{ page.title | default: page.name }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+## Jedlo
+
+<ul>
+  {% for page in site.pages %}
+    {% if page.path contains "food/" %}
       <li>
         <a href="{{ page.url | relative_url }}">{{ page.title | default: page.name }}</a>
       </li>
