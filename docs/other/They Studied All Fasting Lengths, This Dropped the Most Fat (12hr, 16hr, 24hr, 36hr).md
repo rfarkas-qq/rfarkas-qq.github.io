@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Skúmali všetky dĺžky pôstu a zistili, že najviac tuku sa spálilo pri pôste trvajúcom 12, 16, 24 a 36 hodín."
+title: "Skúmali všetky dĺžky pôstu a zistili, pri ktorom sa spálilo najviac tuku (12, 16, 24 a 36 hodín)"
 ---
 
-# They Studied All Fasting Lengths, This Dropped the Most Fat (12hr, 16hr, 24hr, 36hr)
+# Skúmali všetky dĺžky pôstu a zistili, pri ktorom sa spálilo najviac tuku (12, 16, 24 a 36 hodín)
 
-[YouTube](https://www.youtube.com/watch?v=A1tyhN1NCdA)
+[They Studied All Fasting Lengths, This Dropped the Most Fat (12hr, 16hr, 24hr, 36hr)](https://www.youtube.com/watch?v=A1tyhN1NCdA)
 
 ## Thomas DeLauer
 
