@@ -3,7 +3,7 @@ layout: default
 title: "Odborník na pôst - Pravda o Ozempicu"
 ---
 
-# The Fasting Expert "The Truth About Ozempic"
+# Odborník na pôst - Pravda o Ozempicu
 
 [The Fasting Expert "The Truth About Ozempic", These 3 Foods Are Leading To Cancer! - Dr Mindy Pelz](https://www.youtube.com/watch?v=MrjIXLQ_OdA)
 
