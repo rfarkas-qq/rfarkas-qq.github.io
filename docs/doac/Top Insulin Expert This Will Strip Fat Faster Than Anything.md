@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Najlepší odborník na inzulín: Toto odstráni tuk rýchlejšie ako čokoľvek iné!"
+title: "Najlepší odborník na inzulín: Toto odstráni tuk rýchlejšie ako čokoľvek iné"
 ---
 
-# Top Insulin Expert: This Will Strip Fat Faster Than Anything!
+# Najlepší odborník na inzulín: Toto odstráni tuk rýchlejšie ako čokoľvek iné
 
-[YouTube](https://www.youtube.com/watch?v=C7LL7VwP8Nc)
+[Top Insulin Expert - This Will Strip Fat Faster Than Anything](https://www.youtube.com/watch?v=C7LL7VwP8Nc)
 
 Hosťom tohto videa je **Dr. Benjamin Bikman**.
 
