@@ -3,7 +3,7 @@ layout: default
 title: "Inzulínový lekár - Najrýchlejší spôsob, ako spáliť nebezpečný viscerálny tuk"
 ---
 
-# Insulin Doctor The Fastest Way To Burn Dangerous Visceral Fat
+# Inzulínový lekár - Najrýchlejší spôsob, ako spáliť nebezpečný viscerálny tuk
 
 [Insulin Doctor The Fastest Way To Burn Dangerous Visceral Fat Im Finding Mould In My Patients](https://www.youtube.com/watch?v=gryta3KZKU4)
 
