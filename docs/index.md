@@ -19,6 +19,19 @@ YouTube: [DOAC](https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw)
   {% endfor %}
 </ul>
 
+## AI
+
+<ul>
+  {% for page in site.pages %}
+    {% if page.path contains "ai/" %}
+      <li>
+        <a href="{{ page.url | relative_url }}">{{ page.title | default: page.name }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+
 ## Sport 
 
 <ul>
