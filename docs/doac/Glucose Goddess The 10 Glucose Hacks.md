@@ -3,9 +3,9 @@ layout: default
 title: "Bohyňa glukózy - 10 trikov s glukózou"
 ---
 
-# Glucose Goddess The 10 Glucose Hacks!
+# Bohyňa glukózy - 10 trikov s glukózou
 
-[YouTube](https://www.youtube.com/watch?v=3esF-pNAM9c)
+[Glucose Goddess The 10 Glucose Hacks!](https://www.youtube.com/watch?v=3esF-pNAM9c)
 
 Hosť: Jessie Inchauspé
 
