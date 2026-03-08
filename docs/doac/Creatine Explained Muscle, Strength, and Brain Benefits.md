@@ -1,6 +1,9 @@
+---
+layout: default
+title: "Vysvetlenie kreatínu – prínosy pre svaly, silu a mozog"
+---
 
-
-# Vysvetlenie kreatínu – prínosy pre svaly, silu a mozog.md
+# Vysvetlenie kreatínu – prínosy pre svaly, silu a mozog
 
 [Creatine Explained Muscle, Strength, and Brain Benefits](https://www.youtube.com/watch?v=im3XmEB2nPo)
 
